@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724706679057",
+    "project_id": "video-app-d5cc1",
+    "storage_bucket": "video-app-d5cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724706679057:android:d1e40c5c0d8834a938d4b0",
+        "android_client_info": {
+          "package_name": "com.stankloardindustries.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724706679057-fm0kp6o5r8qil1ahsei3e30ikp5brgvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KuNQ3fOObmt48Q3xp1J_8ST0oXV72mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724706679057-fm0kp6o5r8qil1ahsei3e30ikp5brgvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

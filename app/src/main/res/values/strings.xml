@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Call</string>
+    <string name="login"><u>LogIn Now</u></string>
+    <string name="signup"><u>SignUp</u></string>
+</resources>
